@@ -6,5 +6,3 @@
 
 ---
 
-# https://github.com/1AlihadiSaedi/SaediOS
-
